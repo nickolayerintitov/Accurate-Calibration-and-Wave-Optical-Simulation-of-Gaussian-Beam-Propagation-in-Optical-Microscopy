@@ -1,4 +1,4 @@
-# A Step-by-Step Tutorial on Non-Paraxial Beam Propagation in Optical Microscopy with Non-Spherical Lenses
+# Accurate Calibration and Wave-Optical Simulation of Gaussian Beam Propagation in Optical Microscopy
 This repository contains code used for A Step-by-Step Tutorial on Non-Paraxial Beam Propagation in Optical Microscopy with Non-Spherical Lenses  (link_for_paper)
 ## Code
 Simulations file contains a beam propagation simulation for optical setup. The code is written in Python with Diffractio library.
